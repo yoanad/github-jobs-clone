@@ -1,0 +1,9 @@
+.Item {
+  flex: 0 0 30%;
+  margin: 1%;
+}
+
+.Item .card-content {
+  height: 300px;
+  overflow: hidden;
+}
